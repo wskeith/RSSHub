@@ -117,7 +117,7 @@
     "xxhash-wasm": "1.0.2"
   },
   "devDependencies": {
-    "@babel/preset-env": "7.24.0",
+    "@babel/preset-env": "7.27.2",
     "@babel/preset-typescript": "7.23.3",
     "@microsoft/eslint-formatter-sarif": "3.0.0",
     "@stylistic/eslint-plugin": "1.6.3",
