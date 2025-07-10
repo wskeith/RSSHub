@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "@hono/node-server": "1.8.2",
-    "@notionhq/client": "2.2.14",
+    "@notionhq/client": "4.0.1",
     "@postlight/parser": "2.2.3",
     "@sentry/node": "7.106.0",
     "@tonyrl/rand-user-agent": "2.0.53",
