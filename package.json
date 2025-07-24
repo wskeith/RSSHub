@@ -62,7 +62,7 @@
     "currency-symbol-map": "5.1.0",
     "dayjs": "1.11.8",
     "directory-import": "3.2.1",
-    "dotenv": "16.4.5",
+    "dotenv": "17.2.1",
     "entities": "4.5.0",
     "etag": "1.8.1",
     "fanfou-sdk": "5.0.0",
