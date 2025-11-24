@@ -65,7 +65,7 @@
     "dotenv": "16.4.5",
     "entities": "4.5.0",
     "etag": "1.8.1",
-    "fanfou-sdk": "5.0.0",
+    "fanfou-sdk": "6.0.0",
     "git-rev-sync": "3.0.2",
     "googleapis": "133.0.0",
     "got": "11.8.6",
