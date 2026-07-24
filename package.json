@@ -63,7 +63,7 @@
     "dayjs": "1.11.8",
     "directory-import": "3.2.1",
     "dotenv": "16.4.5",
-    "entities": "4.5.0",
+    "entities": "8.0.0",
     "etag": "1.8.1",
     "fanfou-sdk": "5.0.0",
     "git-rev-sync": "3.0.2",
